@@ -83,6 +83,13 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
 }
+@font-face {
+  font-family: 'AquilineTwo';
+  src: url("../fonts/AquilineTwo.ttf");
+  font-weight: normal;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+}
 
 /* normalize.css 2012-02-07T12:37 UTC - https://github.com/necolas/normalize.css */
 /* =============================================================================
@@ -809,7 +816,7 @@ section #title {
   padding: 0 0 5px 0;
 }
 section #title h1 {
-  font-family:'ImaginationStation','OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:'AquilineTwo','OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
   font-size: 40px;
   text-align: center;
