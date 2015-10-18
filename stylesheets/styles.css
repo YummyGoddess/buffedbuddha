@@ -76,6 +76,13 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
 }
+@font-face {
+  font-family: 'ImaginationStation';
+  src: url("../fonts/Imagination-Station.ttf");
+  font-weight: normal;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+}
 
 /* normalize.css 2012-02-07T12:37 UTC - https://github.com/necolas/normalize.css */
 /* =============================================================================
