@@ -84,8 +84,8 @@
   -webkit-font-smoothing: antialiased;
 }
 @font-face {
-  font-family: 'AquilineTwo';
-  src: url("../fonts/AquilineTwo.ttf");
+  font-family: 'DarkRoast';
+  src: url("../fonts/Dark-Roast.ttf");
   font-weight: normal;
   font-style: normal;
   -webkit-font-smoothing: antialiased;
@@ -816,7 +816,7 @@ section #title {
   padding: 0 0 5px 0;
 }
 section #title h1 {
-  font-family:'AquilineTwo','OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:'DarkRoast','OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
   font-size: 40px;
   text-align: center;
